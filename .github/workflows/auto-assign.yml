@@ -7,4 +7,5 @@ jobs:
   add-reviews:
     runs-on: ubuntu-latest
     steps:
-      - uses: kentaro-m/auto-assign-action@v1.1.2labeler.yml
+      - uses: kentaro-m/auto-assign-action@v1.2.1labeler.yml
+      
